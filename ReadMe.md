@@ -2,7 +2,7 @@
 
 ## Segmentação de estradas em imagens do Sentinel-2
 
-#### Leandro Salgaso - A70949
+#### Leandro Salgado - A70949
 #### Luís Costa - A73434
 
 ### Descrição do problema
